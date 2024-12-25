@@ -16,11 +16,6 @@ function preload(){
 }
 
 function setup(){
-    imgBackground.resize(5000, 0);
-    imgLand.resize(5000, 0);
-    imgWater.resize(5000, 0);
-    imgFinishLine.resize(5000, 0);
-    imgWalls.resize(5000, 0);
     createCanvas(1000, 750);
     sprBackground = createSprite(2500, 1500);
     sprBackground.addImage(imgBackground);
