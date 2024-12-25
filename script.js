@@ -70,7 +70,6 @@ function endSetup(){
     // General Setup
     noStroke();
     textAlign(CENTER);
-    textFont("papyrus");
     // Stopwatch Calculation
     secondsTotal = stopwatch / 60;
     mins = Math.floor(secondsTotal / 60);
