@@ -1,3 +1,5 @@
+## This project has been archived.
+
 # 30 Second Racing Game
 ### Released August 2022
 
